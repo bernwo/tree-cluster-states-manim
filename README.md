@@ -8,3 +8,5 @@ Make sure you install [`python`](https://python.org) and [`manim` (Community edi
 ```python
 manim -qh tree_cluster_states.py TreeClusterStates
 ```
+The resulting animation would then look like:
+<img src="https://github.com/bernwo/tree-cluster-states-manim/blob/main/assets/TreeClusterStates.gif" height="200">
