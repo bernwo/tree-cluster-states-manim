@@ -1,5 +1,5 @@
 # Tree Cluster States
-For more information on quantum tree cluster states, refer to:
+For more information on **quantum tree cluster states**, refer to:
 * [Phys. Rev. Lett. 125, 223601](https://doi.org/10.1103/PhysRevLett.125.223601)
 * [Phys. Rev. X 10, 021071](https://doi.org/10.1103/PhysRevX.10.021071)
 
